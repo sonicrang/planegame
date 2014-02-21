@@ -1,0 +1,25 @@
+﻿生成启动时间为 2014/2/21 11:37:31。
+     1>项目“D:\Downloads\源代码\Game.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bitmap.cpp BulletSystem.cpp CollisionSystem.cpp Display.cpp EnermySystem.cpp GameWorld.cpp PlaneGame.cpp stdafx.cpp Bullet.cpp Enermy.cpp FighterPlane.cpp Player.cpp Sprite.cpp
+         Bitmap.cpp
+         BulletSystem.cpp
+         CollisionSystem.cpp
+         Display.cpp
+         EnermySystem.cpp
+         GameWorld.cpp
+     1>d:\downloads\源代码\gameworld.cpp(27): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+         PlaneGame.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “PlaneGame.cpp”: No such file or directory
+         stdafx.cpp
+         Bullet.cpp
+         Enermy.cpp
+         FighterPlane.cpp
+         Player.cpp
+         Sprite.cpp
+         正在生成代码...
+     1>已完成生成项目“D:\Downloads\源代码\Game.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:11.13
